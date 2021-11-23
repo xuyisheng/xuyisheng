@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【译】LiveData with Coroutines and Flow](https://xuyisheng.top/livedata-with-coroutines-and-flow/)
+- [【译】LiveData三连](https://xuyisheng.top/livedata_3/)
 - [Kotlin鱿鱼游戏大奖赛](https://xuyisheng.top/kotlin_game/)
 - [【译】Kotlin上的反应式流-SharedFlow和StateFlow](https://xuyisheng.top/sharedflowhe-stateflow/)
 - [再谈协程之suspend到底挂起了啥](https://xuyisheng.top/suspend/)
-- [再谈协程之CoroutineContext我能玩一年](https://xuyisheng.top/coroutinecontex/)
-- [再谈协程之Callback写出协程范儿](https://xuyisheng.top/callback-flow/)
 <!-- BLOG-POST-LIST:END -->
