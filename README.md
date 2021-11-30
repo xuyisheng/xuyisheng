@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【译】Android SingleLiveEvent Redux with Kotlin Flow](https://xuyisheng.top/singleliveevent-redux-with-kotlin-flow/)
+- [【译】带你了解LiveData重放污染的前世今生](https://xuyisheng.top/livedata_bug_feature/)
 - [【译】LiveData with Coroutines and Flow](https://xuyisheng.top/livedata-with-coroutines-and-flow/)
 - [【译】LiveData三连](https://xuyisheng.top/livedata_3/)
 - [Kotlin鱿鱼游戏大奖赛](https://xuyisheng.top/kotlin_game/)
-- [【译】Kotlin上的反应式流-SharedFlow和StateFlow](https://xuyisheng.top/sharedflowhe-stateflow/)
-- [再谈协程之suspend到底挂起了啥](https://xuyisheng.top/suspend/)
 <!-- BLOG-POST-LIST:END -->
