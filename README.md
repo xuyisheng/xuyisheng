@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【译】Android SingleLiveEvent Redux with Kotlin Flow](https://xuyisheng.top/singleliveevent-redux-with-kotlin-flow/)
-- [【译】带你了解LiveData重放污染的前世今生](https://xuyisheng.top/livedata_bug_feature/)
-- [【译】LiveData with Coroutines and Flow](https://xuyisheng.top/livedata-with-coroutines-and-flow/)
-- [【译】LiveData三连](https://xuyisheng.top/livedata_3/)
-- [Kotlin鱿鱼游戏大奖赛](https://xuyisheng.top/kotlin_game/)
+- [【译】Shared flows, broadcast channels](https://xuyisheng.top/flows-channels/)
+- [【译】Substituting Android’s LiveData- StateFlow or SharedFlow?](https://xuyisheng.top/livedata-stateflow-or-sharedflow/)
+- [【译】ViewModels and LiveData- Patterns + AntiPatterns](https://xuyisheng.top/livedata-patterns-antipatterns/)
+- [【译】LiveData beyond the ViewModel](https://xuyisheng.top/livedata-beyond-the-viewmodel/)
+- [真·富文本编辑器的演进之路-富文本Span的边界探究](https://xuyisheng.top/span_range/)
 <!-- BLOG-POST-LIST:END -->
