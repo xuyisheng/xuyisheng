@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【译】一篇掌握LiveData transformations](https://xuyisheng.top/livedata-transformations/)
 - [响应式架构最佳实践——MVI](https://xuyisheng.top/mvi/)
 - [【译】Shared flows, broadcast channels](https://xuyisheng.top/flows-channels/)
 - [【译】Substituting Android’s LiveData- StateFlow or SharedFlow?](https://xuyisheng.top/livedata-stateflow-or-sharedflow/)
 - [【译】ViewModels and LiveData- Patterns + AntiPatterns](https://xuyisheng.top/livedata-patterns-antipatterns/)
-- [【译】LiveData beyond the ViewModel](https://xuyisheng.top/livedata-beyond-the-viewmodel/)
 <!-- BLOG-POST-LIST:END -->
