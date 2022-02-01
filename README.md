@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [闲言碎语—年终总结](https://xuyisheng.top/2022/)
 - [【译】5 Uses of KTX LiveData Coroutine Builder](https://xuyisheng.top/5-uses-of-ktx-livedata-coroutine-builder/)
 - [【译】Making cold Flows lifecycle-aware](https://xuyisheng.top/making-cold-flows-lifecycle-aware/)
 - [【译】一篇掌握LiveData transformations](https://xuyisheng.top/livedata-transformations/)
 - [响应式架构最佳实践——MVI](https://xuyisheng.top/mvi/)
-- [【译】Shared flows, broadcast channels](https://xuyisheng.top/flows-channels/)
 <!-- BLOG-POST-LIST:END -->
