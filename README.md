@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter混编工程之Engine复用](https://xuyisheng.top/flutter_engine_group/)
+- [Flutter混编工程之高速公路Pigeon](https://xuyisheng.top/flutter_pigeon/)
+- [Flutter混编工程之通讯之路](https://xuyisheng.top/flutter_channel/)
 - [闲言碎语—年终总结](https://xuyisheng.top/2022/)
 - [【译】5 Uses of KTX LiveData Coroutine Builder](https://xuyisheng.top/5-uses-of-ktx-livedata-coroutine-builder/)
-- [【译】Making cold Flows lifecycle-aware](https://xuyisheng.top/making-cold-flows-lifecycle-aware/)
-- [【译】一篇掌握LiveData transformations](https://xuyisheng.top/livedata-transformations/)
-- [响应式架构最佳实践——MVI](https://xuyisheng.top/mvi/)
 <!-- BLOG-POST-LIST:END -->
