@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [不懂设计的产品不是好开发](https://xuyisheng.top/design_color_system/)
 - [Flutter混编工程之Engine复用](https://xuyisheng.top/flutter_engine_group/)
 - [Flutter混编工程之高速公路Pigeon](https://xuyisheng.top/flutter_pigeon/)
 - [Flutter混编工程之通讯之路](https://xuyisheng.top/flutter_channel/)
 - [闲言碎语—年终总结](https://xuyisheng.top/2022/)
-- [【译】5 Uses of KTX LiveData Coroutine Builder](https://xuyisheng.top/5-uses-of-ktx-livedata-coroutine-builder/)
 <!-- BLOG-POST-LIST:END -->
