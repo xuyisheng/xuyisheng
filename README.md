@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter布局指南之谁动了我的Key](https://xuyisheng.top/flutter_key/)
+- [FlutterComponent最佳实践之Shadow怎么就这么简单](https://xuyisheng.top/flutter_shadow/)
 - [FlutterComponent最佳实践之色彩管理](https://xuyisheng.top/flutter_color/)
 - [Flutter布局指南之深入理解BoxConstraints](https://xuyisheng.top/flutter_boxconstraints/)
 - [Flutter混编工程之轻量化改造](https://xuyisheng.top/flutter_light/)
-- [不懂设计的产品不是好开发](https://xuyisheng.top/design_color_system/)
-- [Flutter混编工程之Engine复用](https://xuyisheng.top/flutter_engine_group/)
 <!-- BLOG-POST-LIST:END -->
