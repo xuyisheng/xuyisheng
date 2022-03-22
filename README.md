@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FlutterComponent最佳实践之取色我来实现](https://xuyisheng.top/flutter_extractpixels/)
+- [FlutterComponent最佳实践之TabbarIndicator](https://xuyisheng.top/flutter_indicator/)
 - [Flutter混编工程之Font桥接](https://xuyisheng.top/flutter_font/)
 - [Flutter布局指南之Box套盒子](https://xuyisheng.top/flutter_box/)
 - [Flutter布局指南之谁动了我的Key](https://xuyisheng.top/flutter_key/)
-- [FlutterComponent最佳实践之Shadow怎么就这么简单](https://xuyisheng.top/flutter_shadow/)
-- [FlutterComponent最佳实践之色彩管理](https://xuyisheng.top/flutter_color/)
 <!-- BLOG-POST-LIST:END -->
