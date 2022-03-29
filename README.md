@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [闲言碎语——第六期](https://xuyisheng.top/thinking6/)
+- [FlutterComponent最佳实践之沉浸式](https://xuyisheng.top/flutter_uioverlay/)
 - [FlutterComponent最佳实践之取色我来实现](https://xuyisheng.top/flutter_extractpixels/)
 - [FlutterComponent最佳实践之TabbarIndicator](https://xuyisheng.top/flutter_indicator/)
 - [Flutter混编工程之Font桥接](https://xuyisheng.top/flutter_font/)
-- [Flutter布局指南之Box套盒子](https://xuyisheng.top/flutter_box/)
-- [Flutter布局指南之谁动了我的Key](https://xuyisheng.top/flutter_key/)
 <!-- BLOG-POST-LIST:END -->
