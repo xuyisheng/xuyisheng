@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [为了看Flutter到底有没有人用我竟然](https://xuyisheng.top/flutter_app_check/)
+- [闲言碎语——第七期](https://xuyisheng.top/coding7/)
 - [FlutterComponent最佳实践之动画那些词儿](https://xuyisheng.top/flutter_anim1/)
 - [FlutterComponent最佳实践之角对齐](https://xuyisheng.top/flutter_corner_align/)
 - [闲言碎语——第六期](https://xuyisheng.top/thinking6/)
-- [FlutterComponent最佳实践之沉浸式](https://xuyisheng.top/flutter_uioverlay/)
-- [FlutterComponent最佳实践之取色我来实现](https://xuyisheng.top/flutter_extractpixels/)
 <!-- BLOG-POST-LIST:END -->
