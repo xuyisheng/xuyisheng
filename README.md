@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [重走Flutter状态管理之路—Riverpod进阶篇](https://xuyisheng.top/riverpod2/)
 - [重走Flutter状态管理之路—Riverpod入门篇](https://xuyisheng.top/riverpod1/)
 - [它来了！Flutter3.0新特性全接触](https://xuyisheng.top/flutter3_1/)
 - [它来了！Flutter3.0发布全解析](https://xuyisheng.top/flutter3/)
 - [kotlin修炼指南7之泛型](https://xuyisheng.top/kotlin7/)
-- [为了看Flutter到底有没有人用我竟然](https://xuyisheng.top/flutter_app_check/)
 <!-- BLOG-POST-LIST:END -->
