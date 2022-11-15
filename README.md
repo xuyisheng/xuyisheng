@@ -16,9 +16,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [kotlin修炼指南9-Sequence的秘密](https://xuyisheng.top/kotlin_sequence/)
 - [kotlin修炼指南8—集合中的高阶函数](https://xuyisheng.top/kotlin8/)
 - [忙里偷闲IdleHandler](https://xuyisheng.top/idlehandler/)
 - [Android-Widget重装上阵](https://xuyisheng.top/android-widget-back/)
 - [Android壁纸还是B站玩得花](https://xuyisheng.top/android_wallpaper/)
-- [Flutter混编工程之打通纹理之路](https://xuyisheng.top/flutter_image_texture/)
 <!-- BLOG-POST-LIST:END -->
